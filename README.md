@@ -49,13 +49,6 @@ snakeGame/
 ├── .project, .classpath   # Eclipse project config  
 └── .settings/             # Eclipse settings
 
-
-## Credits
-
-- Developed by Kiriaki Maria Kadrefi
-- Background music and effects: `music/`
-- Icons and images: located in `images/`
-
 ## Future Improvements
 This project was developed for learning purposes and contains many opportunities for enhancement. Some ideas for future improvement include:
 
@@ -70,6 +63,14 @@ This project was developed for learning purposes and contains many opportunities
 - Refactoring and optimizing code structure
 
 - Contributions or suggestions are welcome!
+
+## Credits
+
+- Developed by Kiriaki Maria Kadrefi
+- Background music and effects: `music/`
+- Icons and images: located in `images/`
+
+
 
 
 
