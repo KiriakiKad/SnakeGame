@@ -56,5 +56,22 @@ snakeGame/
 - Background music and effects: `music/`
 - Icons and images: located in `images/`
 
+## Future Improvements
+This project was developed for learning purposes and contains many opportunities for enhancement. Some ideas for future improvement include:
+
+- Adding levels or increasing difficulty over time
+
+- Implementing a high-score leaderboard
+
+- Improving collision detection and movement smoothness
+
+- Making the UI more responsive across different screen sizes
+
+- Refactoring and optimizing code structure
+
+- Contributions or suggestions are welcome!
+
+
+
 
 
